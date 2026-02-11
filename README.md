@@ -82,31 +82,6 @@ Criação de indicadores para identificar os perfis de clientes mais lucrativos.
 * **Python:** Automação do pipeline e extração de métricas
 * **LaTeX:** Documentação formal das fórmulas de negócio
 
----
 
-## Desafio Resolvido 
 
-Um ponto crítico do projeto foi o tratamento do **Contrato 1004**.
-
-O registro apresentava:
-
-* **Rating F**
-* **80 dias de atraso**
-* Status marcado como `"Em Dia"`
-* Provisão financeira mínima
-
-Após aplicação do motor de regras:
-
-* Status corrigido para **"Inadimplente"**
-* Provisão (PDD) ajustada para **50%**
-* Correção de distorção contábil que impactaria diretamente o balanço financeiro
-
----
-
-## O que este projeto demonstra
-
-* Atenção a inconsistências de dados
-* Conhecimento regulatório (BACEN, PDD, Rating)
-* Domínio técnico em SQL aplicado a regras de negócio
-* Capacidade de estruturar dados com visão financeira
 
